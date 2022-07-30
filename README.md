@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 ## 🌱 I’m currently learning flutter and reactJs
 
-
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Bhanolia&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Bhanolia&theme=tokyonight_duo&hide_border=true)](https://git.io/streak-stats)
+<br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Bhanolia=anuraghazra&hide=contribs,prs)
