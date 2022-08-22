@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 🌱 I’m currently learning Flutter and javaScript
+## 🌱 I’m currently learning Flutter
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Bhanolia&theme=tokyonight_duo&hide_border=true)](https://git.io/streak-stats)
 <br>
