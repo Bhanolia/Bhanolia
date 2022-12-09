@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 ## 🌱 I’m currently learning Flutter
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Bhanolia&theme=tokyonight_duo&hide_border=true)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Bhanolia&theme=tokyonight_duo&hide_border=true)](https://git.io/streak-stats)
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhanolia&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhanolia&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats) -->
